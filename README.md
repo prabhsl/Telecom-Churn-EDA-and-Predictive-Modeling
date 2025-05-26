@@ -2,7 +2,7 @@
 
 This project analyzes and predicts customer churn using a telecom dataset from Kaggle: [Telecom Churn Datasets](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets).
 
-<p style="color:red;"><b>Warning</b>: GitHub's Jupyter Notebook renderer does not display the complete notebook. Please use <a href="https://nbviewer.org/github/prabhsl/Telecom-Churn-EDA-and-Predictive-Modeling/blob/main/Telecom%20Churn.ipynb">this nbviewer link</a> to view the notebook properly, or alternatively, download the notebook and open it in your preferred code editor.</p>
+**⚠️ Warning**: GitHub's Jupyter Notebook renderer does not display the complete notebook. Please use [this nbviewer link](https://nbviewer.jupyter.org/github/prabhsl/Telecom-Churn-EDA-and-Predictive-Modeling/blob/main/Telecom%20Churn.ipynb) to view the notebook properly, or alternatively, download the notebook and open it in your preferred code editor.
 
 ---
 
